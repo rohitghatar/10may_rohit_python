@@ -1,0 +1,16 @@
+Dear Sir,
+
+I hope this message finds you well. I am writing to explain the reason why I was unable to complete the assessment. The primary factor that hindered my progress was that the concept of file handling was not covered in our class sessions.
+
+File handling is a fundamental topic in programming, and it plays a crucial role in tasks such as reading and writing data from/to files. Unfortunately, since this concept was not taught in class, I did not have the necessary knowledge and understanding to effectively tackle the assessment questions that involved file handling.
+
+I understand the importance of file handling in programming and its relevance to the assessment. However, due to the lack of instruction on this topic, I faced challenges in comprehending the requirements and implementing the necessary code.
+
+I genuinely value the opportunity to learn and demonstrate my understanding of the subjects taught in class. In the future, I would greatly appreciate it if file handling or any other critical concepts are included in the curriculum or discussed during class sessions. This would enable me to acquire the necessary skills and knowledge to successfully complete assessments that involve such topics.
+
+I am committed to enhancing my understanding of file handling independently to ensure that I can tackle similar challenges effectively in the future. If you have any recommended resources or guidance on this topic, I would be grateful to receive them.
+
+Thank you for your understanding and support. I am eager to learn and improve, and I assure you that I will work diligently to fill the gaps in my knowledge.
+
+Sincerely,
+Rohit Ghatar
